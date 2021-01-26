@@ -41,9 +41,15 @@
 			<artifactId>mybatis-plus-boot-starter</artifactId>
 			<version>3.4.2</version>
 		</dependency>
+        <dependency>
+            <groupId>com.atguigu.gulimall</groupId>
+            <artifactId>gulimall-common</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+            <scope>compile</scope>
+        </dependency>
 
 
-	</dependencies>
+    </dependencies>
 
 
 
